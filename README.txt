@@ -1,5 +1,4 @@
-Git is a distribu version control system.
-Git is free software.
-new add a line in the end of this file
-
-this modify is only version for dev branch
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
